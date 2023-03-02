@@ -9,12 +9,9 @@ number:
 date:
 consensus: true
 v: 3
-# area: AREA
-# workgroup: WG Working Group
-keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+area: General
+workgroup: WG Working Group
+keyword: Internet-Draft
 venue:
 #  group: WG
 #  type: Working Group
