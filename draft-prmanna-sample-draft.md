@@ -25,8 +25,8 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Prasenjit Manna
+    organization: My Org
     email: "prasenjit.manna@gmail.com"
 
 normative:
