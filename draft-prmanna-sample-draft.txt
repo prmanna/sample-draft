@@ -2,7 +2,7 @@
 
 
 
-Network Working Group                                           P. Manna
+WG Working Group                                                P. Manna
 Internet-Draft                                                    My Org
 Intended status: Informational                              2 March 2023
 Expires: 3 September 2023
