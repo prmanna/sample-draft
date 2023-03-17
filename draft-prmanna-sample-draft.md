@@ -40,7 +40,7 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
+Welcome to Sample.
 
 
 # Conventions and Definitions
