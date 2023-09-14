@@ -1,4 +1,4 @@
 # License
 
 See the
-[guidelines for contributions](https://github.com/prmanna/sample-draft/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/github.com/prmanna/blob/main/CONTRIBUTING.md).

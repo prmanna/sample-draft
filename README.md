@@ -2,16 +2,16 @@
 
 This is the working area for the individual Internet-Draft, "TODO - Your title".
 
-* [Editor's Copy](https://prmanna.github.io/sample-draft/#go.draft-prmanna-sample-draft.html)
+* [Editor's Copy](https://github.com.github.io/prmanna/#go.draft-prmanna-sample-draft.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-prmanna-sample-draft)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-prmanna-sample-draft)
-* [Compare Editor's Copy to Individual Draft](https://prmanna.github.io/sample-draft/#go.draft-prmanna-sample-draft.diff)
+* [Compare Editor's Copy to Individual Draft](https://github.com.github.io/prmanna/#go.draft-prmanna-sample-draft.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/prmanna/sample-draft/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/github.com/prmanna/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
