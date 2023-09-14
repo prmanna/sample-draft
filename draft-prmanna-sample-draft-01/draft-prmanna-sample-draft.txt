@@ -4,8 +4,8 @@
 
 WG Working Group                                                P. Manna
 Internet-Draft                                                    My Org
-Intended status: Informational                              2 March 2023
-Expires: 3 September 2023
+Intended status: Informational                         14 September 2023
+Expires: 17 March 2024
 
 
                            TODO - Your title
@@ -42,7 +42,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 September 2023.
+   This Internet-Draft will expire on 17 March 2024.
 
 Copyright Notice
 
@@ -70,7 +70,7 @@ Table of Contents
 
 1.  Introduction
 
-   TODO Introduction
+   Welcome to Sample.
 
 2.  Conventions and Definitions
 
